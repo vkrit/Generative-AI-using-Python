@@ -1,1 +1,1 @@
-# NLP_using_python
+# Generative AI using Python
